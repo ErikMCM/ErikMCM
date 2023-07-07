@@ -16,7 +16,12 @@ I don't have much on this account other than abandoned projects or some small co
 - Lua
 - Bash
 
-Learning both C# and Rust.
+###### My limited fontend knowledge consists of...
+- React
+- Next.js
+- Prisma (CockroachDB)
+- Chakra UI
+- Tailwind CSS
 
 ------------
 
@@ -32,7 +37,12 @@ Learning both C# and Rust.
 - JavaScript (or better yet, TypeScript) is the best language for beginners and the best all-around language. Haven't seen a language as flexible and as community driven as it.
 - MongoDB is a horrible database for anything with any sort of relational data, but is great for tossing unorganized chaos into like logs. Use [Prisma](https://www.prisma.io/ "Prisma") with [CockroachDB](https://www.cockroachlabs.com/docs/v22.2/install-cockroachdb "CockroachDB") instead.
 - Dell servers and Juniper networking equipment are supreme.
+- Kubuntu 22.04 > Windows 11. When you're done wasting your life playing video games 24/7, make the switch to Linux.
 
+------------
+
+###### My one piece of advice to all developers...
+Design like your system is being attacked, all of your other systems have been attacked, and you can't trust anything.
 
 ------------
 
